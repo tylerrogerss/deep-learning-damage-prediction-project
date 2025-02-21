@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
-.idea
+damage-prediction/.idea
 # C extensions
 *.so
 
